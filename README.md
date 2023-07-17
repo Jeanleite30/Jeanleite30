@@ -5,8 +5,6 @@
 
 - 🌱 Atualmente estou aprendendo **Power BI, SQL e Python**
 
-- 💬 Me pergunte sobre **Power BI, SQL e Python**
-
 - 📫 Você me acha através do e-mail **j.alves.leite95@gmail.com**
 
 - 📄 Meu Linkedin com um resumo do meu perfil [https://www.linkedin.com/in/jean-alves-leite-50a88723b/](https://www.linkedin.com/in/jean-alves-leite-50a88723b/)
