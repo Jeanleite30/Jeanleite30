@@ -1,7 +1,7 @@
 <h1 align="center">Oi 👋, Eu sou o Jean Leite</h1>
 <h3 align="center">Apaixonado por Tecnologia e Análise de Dados</h3>
 
-- 🔭 Atualmente estou trabalhando como Analista de TI **Spraying Systems do Brasil**
+- 🔭 Atualmente estou trabalhando como Analista de TI.
 
 - 🌱 Atualmente estou aprendendo **Power BI, SQL e Python**
 
